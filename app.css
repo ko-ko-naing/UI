@@ -1,8 +1,14 @@
-body{
+.container{
     height: 190vh;
-  }
+}
   .sticky{
     position: sticky;
     top: 0px;
+    z-index: 100;
+  }
+  .two-sticky{
+    position: sticky;
+    top: 0px;
+    bottom: auto;
     z-index: 100;
   }
