@@ -1,0 +1,8 @@
+body{
+    height: 190vh;
+  }
+  .sticky{
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+  }
